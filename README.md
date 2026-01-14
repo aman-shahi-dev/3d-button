@@ -2,16 +2,14 @@
 
 This project is a React-based demonstration of a 3D button effect created using the powerful animation library [Framer Motion](https://www.framer.com/motion/) and styled with [Tailwind CSS](https://tailwindcss.com/).
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-blue?style=for-the-badge)](https://aman-shahi-dev.github.io/3d-button)
+
 ## Technologies Used
 
 -   **[React](https://react.dev/)**: For building the user interface.
 -   **[Vite](https://vitejs.dev/)**: As the frontend build tool and development server.
 -   **[Framer Motion](https://www.framer.com/motion/)**: For the animation and 3D transformations.
 -   **[Tailwind CSS](https://tailwindcss.com/)**: For the styling and visual effects.
-
-## Live Demo
-
-[CHECK IT HERE](https://aman-shahi-dev.github.io/3d-button/)
 
 ## How It Works
 
